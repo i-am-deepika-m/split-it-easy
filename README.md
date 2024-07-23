@@ -1,1 +1,1 @@
-# split-it-easy
+# Split It Easy
